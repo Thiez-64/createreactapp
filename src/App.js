@@ -54,8 +54,8 @@ function App() {
     <div className="App">
       <Contact {...homer} />
       <Contact {...marge}/>
-      <Contact {...bart}/>
-      <Contact {...lisa}/>
+      <Contact {...bart} />
+      <Contact {...lisa} />
       <Contact {...maggie} />
     </div>
   );
